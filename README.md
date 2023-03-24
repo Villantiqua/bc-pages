@@ -1,2 +1,0 @@
-# bc-pages
-bookcovers
